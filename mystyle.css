@@ -1,0 +1,50 @@
+body {
+    background-color: burlywood;
+    width: 80%;
+    margin: auto;
+    font-family: 'Open Sans Condensed', sans-serif;
+    word-wrap: break-word;
+}
+
+img {
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.fig1 {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.fig2 {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.column {
+    display: inline-flexbox;
+    flex-direction: column;
+    columns: 3;
+    text-align: center;
+}
+
+.url {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+a:hover {
+    color: green;
+}
+
+p::first-letter {
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: bold;
+    font-size: 175%;
+    color: red;
+}

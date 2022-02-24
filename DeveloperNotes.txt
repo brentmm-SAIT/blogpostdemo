@@ -1,0 +1,18 @@
+Sources I used for this assignment:
+
+Refercened - https://www.w3schools.com/
+
+Text from provided text document - davidthompson.txt
+
+Images found at:
+Portrait - https://www.nps.gov/laro/learn/historyculture/david-thompson.htm
+Map - http://www.archives.gov.on.ca/en/explore/online/thompson/geographer.aspx
+Waterfall - https://www.playoutsideguide.com/2016/09/camping-in-david-thompson-corridor/
+Horses - https://www.travelalberta.com/ca/listings/david-thompson-country-13554/
+Road - https://www.travelalberta.com/ca/listings/david-thompson-country-13554/
+
+Steps I took:
+- Put in headers and text
+- Inserted Portrait and Map Images
+- Created 3 columns to format backcountry photos
+- Used external css file to format document 
